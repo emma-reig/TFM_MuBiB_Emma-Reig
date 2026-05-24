@@ -1,6 +1,10 @@
 # TFM MuBiB – Emma Reig Martí
 
-This repository contains the complete development of the **Final Project Master’s Thesis** of the [Master's Degree in Bioinformatics and Biostatistics] titled **An integrated workflow based on Artificial Intelligence for the Optimization of Docetaxel-loaded Polymeric Micelles**. The project focuses on the design of an EDA and pre-processing pipeline to optimize the formulation of Soluplus/TPGS MPMs loaded with DTX, conduct the Design of Experiments (DoE) usign different commercial DoE/AI-driven softwares, and compare their performance.
+This repository contains the complete development of the ** Master’s Thesis Final Project** of the [Master's Degree in Bioinformatics and Biostatistics], titled 
+
+**An integrated workflow based on Artificial Intelligence for the Optimization of Docetaxel-loaded Polymeric Micelles** 
+
+The project focuses on the design of an exploratory data analysis (EDA) and pre-processing pipeline to optimize the formulation of Soluplus/TPGS MPMs loaded with DTX, conduct the Design of Experiments (DoE) using different commercial DoE/AI-driven softwares, and compare their performance.
 ---
 
 ## Description
