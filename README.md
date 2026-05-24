@@ -1,6 +1,6 @@
 # TFM MuBiB – Emma Reig Martí
 
-This repository contains the complete development of the ** Master’s Thesis Final Project** of the [Master's Degree in Bioinformatics and Biostatistics], titled 
+This repository contains the complete development of the **Master’s Thesis Final Project** of the [Master's Degree in Bioinformatics and Biostatistics], titled 
 
 **An integrated workflow based on Artificial Intelligence for the Optimization of Docetaxel-loaded Polymeric Micelles** 
 
