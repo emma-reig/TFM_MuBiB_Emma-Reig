@@ -55,6 +55,7 @@ The repository is organized as follows:
 └── README.md                     
 ---
 
+
 ## Main scripts
 
 - `DLS_functions+metrics.ipynb` → Contains the core functions and metrics used throughout the project for the calculate the similarity distance imp. 
@@ -66,21 +67,25 @@ The repository is organized as follows:
 
 
 ---
+# Installation & Setup
 
-## Installation & Setup
-
-Clone the repository using: 
+Clone the repository using:
 
 ```bash
 git clone https://github.com/emma-reig/TFM_MuBiB_Emma-Reig.git
 cd TFM_MuBiB_Emma-Reig
+```
 
 ---
 
-## Author  
-Emma Reig Martí
+# Author
+
+**Emma Reig Martí**
 
 ---
 
-## License
-This project has been developed strictly for academic purposes as a part of a Master's Thesis. All rights reserved to the author. 
+# License
+
+This project has been developed strictly for academic purposes as part of a Master’s Thesis.
+
+All rights reserved to the author.
