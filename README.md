@@ -2,7 +2,7 @@
 
 This repository contains the work associated with the **Master’s Thesis Final Project** of the *Master's Degree in Bioinformatics and Biostatistics (UOC-UB)*, titled: 
 
-**An integrated workflow based on Artificial Intelligence for the Optimization of Docetaxel-loaded Polymeric Micelles** 
+**Analytical and Experimental Benchmarking of commercial Design of Experiments tools for Mixed Polymeric Micelles Optimization** 
 
 The project focuses on an Exploratory Data Analysis (EDA) and pre-processing pipeline to optimize the formulation of Soluplus/TPGS Mixed Polymeric Micelles (MPMs) loaded with Docetaxel (DTX). It conducts a Design of Experiments (DoE) using different commercial DoE softwares, evaluating and comparing their predictive performance.
 ---
